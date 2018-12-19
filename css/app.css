@@ -1,0 +1,54 @@
+body {
+    font-family: Verdana, sans-serif;
+}
+
+#cards {
+    width: 320px;
+    border: 1px solid rgb(212, 216, 211);
+    box-shadow: 4px 4px 1px 1px rgb(212, 216, 211);
+}
+
+#car-infor {
+    border: 1px solid rgb(212, 216, 211);
+    width: 300px;
+    margin: 10px;
+}
+
+.introduction {
+    font-style: italic;
+}
+
+
+.list_ul {
+    list-style-type: none;
+    padding: 0 10px;
+}
+
+
+h3 {
+   padding: 0px 20px;
+}
+
+p {
+    padding: 0 10px;
+}
+
+span {
+    font-style: normal;
+    font-weight: bold;
+}
+
+div >img{
+    display: block;
+    max-width: 300px;
+    height: 200px;
+    margin: 10px auto ;
+
+}
+
+
+
+
+
+
+
