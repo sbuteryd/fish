@@ -2,5 +2,4 @@
 
 
 ## 效果图
-
-![](image/fish.png)
+<img src="image/fish.png" alt="fish" width="200"/>
